@@ -1410,7 +1410,13 @@ _:-ms-fullscreen,
   font-weight: bold;
   font-size: 1em;
 }
+.mobile .resume .item {
+  padding: 7rem 4rem;
+}
 
+.mobile .customer-grid .item img {
+  max-width: 80%;
+}
 .mobile .left-content .inner-content {
   position: absolute;
   width: 100%;
